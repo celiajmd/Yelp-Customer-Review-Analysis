@@ -10,11 +10,11 @@ The ultimate goal is not only to help companies understand customers’ feelings
 https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset#yelp.csv
 
 The data set contains 10 columns. Each column is described as following:-
-•	Business id – restaurant for which review has been posted.
-•	Date – duration when the review was posted
-•	Review_id – id for review
-•	Stars – rating for the restaurant
-•	Text – review posted
-•	User_id – id of the consumer that posted review
+*	Business id – restaurant for which review has been posted.
+*	Date – duration when the review was posted
+*	Review_id – id for review
+*	Stars – rating for the restaurant
+*	Text – review posted
+*	User_id – id of the consumer that posted review
 
 
